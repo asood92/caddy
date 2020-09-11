@@ -1,4 +1,5 @@
-# caddy
+# caddy-cloudflaredns
+# build of caddy based off official image but with cloudflare dns module baked in
 
 Please see the official Caddy Docker Image for deployment instructions.
 
